@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    size: 60;
+    font-weight: bold;
+    background-color: red;
+}
+
+img {
+    height: 500;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    background-color: red;
+    font-weight: bold;
+}
+
+.items {
+    size: 10;
+
+}
